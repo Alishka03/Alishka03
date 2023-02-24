@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Spring Boot (Microservices) and Docker
+🌱 work hard , play hard
 <!--
 **Alishka03/Alishka03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
